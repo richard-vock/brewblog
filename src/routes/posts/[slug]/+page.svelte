@@ -13,7 +13,7 @@
     }
 
 	export let data
-</script>
+</script> 
 
 <svelte:head>
 	<title>{title(data)}</title>
