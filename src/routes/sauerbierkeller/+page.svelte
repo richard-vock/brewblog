@@ -15,7 +15,7 @@
 </script>
 
 <svelte:head>
-	<title>{config.title}</title>
+	<title>{config.title} - Sauerbierkeller</title>
 </svelte:head>
 
 <section class="relative w-full">
@@ -28,24 +28,13 @@
                         class="py-10 text-4xl font-bold leading-none tracking-tighter text-white lg:text-6xl"
                         transition:slide={{ delay: 200, duration: 1000, axis: 'y' }}
                     >
-                        Emperor Norton's<br />Brew Blog
+                        Sauerbierkeller
                     </h1>
                 {/if}
-                <img
-                    class="w-24 h-24 logo"
-                    src="/logo_cut.png"
-                    alt="Emperor Norton's Brew Blog"
-                />
                 </div>
-            </div>
 
-            <PostGrid posts={data.posts} />
+                <PostGrid posts={data.posts} />
+            </div>
         </div>
     </div>
 </section>
-
-<style>
-.logo {
-    width: 500px;
-}
-</style>
