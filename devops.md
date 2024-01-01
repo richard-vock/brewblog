@@ -10,3 +10,7 @@ build and preview:
 
     pnpm run build
     pnpm run preview
+
+deploy:
+
+    git push
