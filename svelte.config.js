@@ -18,6 +18,9 @@ function rehype() {
             if (node.tagName === 'ul') {
                 node.properties.className = 'text-base prose list-disc text-santa sm:text-lg md:mt-5 md:text-xl';
             }
+            if (node.tagName === 'img') {
+                node.properties.className = 'w-full rounded-lg';
+            }
         });
         // sweep over all paragraphs
         visit(tree, 'element', function (node) {
