@@ -70,7 +70,7 @@ Der zweite Faktor ist die vorige Nutzung des Fasses. Sehr beliebt sind gebraucht
 > Davon abgesehen, wenn Du einen Spirituosen-/Weincharakter in Deinem Bier suchst, wäre es besser, ihn direkt in Dein Bier zu mischen. Das ist tatsächlich illegal für die meisten kommerziellen Brauer,
 > daher sehe ich die Fass-Sache als wirklich nur einen Weg um den langen Arm des ATF.
 > Ich glaube, man kann einen Hauch von Geschmack erhalten und den Eichencharakter etwas abmildern, indem man die Eiche in einer anderen Spirituose einweicht, bevor man sie dem Bier hinzufügt,
-> aber ich habe nie einen Test gemacht, um zu sehen, ob dies wirklich besser ist als die direkte Zugabe der Eiche und der anderen Spirituose zum Bier.=
+> aber ich habe nie einen Test gemacht, um zu sehen, ob dies wirklich besser ist als die direkte Zugabe der Eiche und der anderen Spirituose zum Bier.
 >
 > \- The Mad Fermentationist (übersetzt)
 

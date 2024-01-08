@@ -25,7 +25,7 @@ Hab ich mir nicht zweimal sagen lassen:
 
 [![Kegs](/kegs.jpg)](/kegs.jpg)
 
-An den Kegs war einiges auszutauschen, dafür waren hatten sie aber einen sportlichen Preis.
+An den Kegs war einiges auszutauschen, dafür hatten sie aber einen sehr fairen Preis.
 Also direkt mal ein paar Ersatzteile bestellt, alles zusammengeschraubt und Drucktests gemacht.
 
 [![Kegs](/kegteile.jpg)](/kegteile.jpg)
